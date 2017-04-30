@@ -1,0 +1,1 @@
+Use the SocialNetwork.sql and import to Localhost for default data.
